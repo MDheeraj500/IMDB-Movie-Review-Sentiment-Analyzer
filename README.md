@@ -29,10 +29,11 @@ To run the IMDB Movie Review Sentiment Analyzer locally, please follow the steps
 2. **Backend Setup:**
    ```bash
    cd Backend
-  python3 -m venv venv
-  source venv/bin/activate # For Windows: venv\Scripts\activate
-  pip install -r requirements.txt
-  ``
+   python3 -m venv venv
+   source venv/bin/activate # For Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+
 3. **Frontend Setup:**
   ```bash
   cd ../Frontend
