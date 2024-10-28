@@ -1,0 +1,6 @@
+/~
+/frontend
+/app.yaml
+/.gcloudignore
+venv
+IMDB-Dataset.csv
